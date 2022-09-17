@@ -1,5 +1,5 @@
 title: About
-date: <today's date>
+date: Sat Sep 17 05:51:08
 
 ![So Schmexy][my_sweet_photo]
 

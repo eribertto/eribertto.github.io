@@ -1,5 +1,5 @@
 title: First Post on My Sweet New Blog
-date: <today's date>
+date: Sat Sep 17 05:49:49
 author: Eriberto Mendez
 
 # I am On My Way To Internet Fame and Fortune!
